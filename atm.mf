@@ -1,0 +1,2 @@
+Main-Class: client.AtmApp
+Class-Path: lib/java-json.jar lib/commons-cli-1.4.jar
