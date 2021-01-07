@@ -1,5 +1,4 @@
-# Secure-Bank-And-ATms
-Secured Bank and Atms system
+# Secured Bank And ATms System
 
 University project to build a secured Band and ATMs systems. The bank is a server and the ATMs are clients. \
 Roles in the project:  \
